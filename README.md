@@ -15,7 +15,7 @@ Fernanda da Rocha Gomes
 |Campo         |Descrição             |
 |--------------|----------------------|
 |**Disciplina**|Engenharia de Software|
-|**Professor** |Egídio                |
+|**Professor** |Egydio                |
 |**Avaliação** |NP2                   |
 |**Ferramenta**|Astah Profissional    |
 |**Formato**   |Diagramas UML         |
@@ -145,7 +145,7 @@ Astah: File → Export → Image
 
 **Autor:** Fernanda da Rocha Gomes  
 **Disciplina:** Engenharia de Software  
-**Professor:** Egídio  
+**Professor:** Egydio  
 **Instituição:** PIMII  
 **Dados de Entrega:** NP2
 
